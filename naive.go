@@ -28,7 +28,7 @@ func extractNGrams(text string, steps int) []string {
 }
 
 func main() {
-	awesomeTweet := "Die @bedcon ist die großartigste #Konferenz dieses Jahr. 😍 http://bedcon.org"
+	awesomeTweet := "Die @bedcon ist die großartigste #Konferenz des Jahres. 😍 http://bedcon.org"
 	lowerCasedTweet := strings.ToLower(awesomeTweet)
 	fmt.Printf("Lower Case: %v \n", lowerCasedTweet)
 
