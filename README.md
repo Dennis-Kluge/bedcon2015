@@ -1,4 +1,4 @@
-# Text De-Noizing with Go(lang)
+# Text De-Noising with Go(lang)
 This repository contains code samples from my talk about how Go can be used
 to build a simple text normalization pipeline.
 
